@@ -1,0 +1,10 @@
+# CUDA wheels should be installed from https://download.pytorch.org/whl/cu124
+torch==2.5.1+cu124
+torchvision==0.20.1+cu124
+numpy>=1.24,<3
+matplotlib>=3.7,<4
+Pillow>=10,<12
+tqdm>=4.66,<5
+PyYAML>=6,<7
+python-docx>=1.1,<2
+

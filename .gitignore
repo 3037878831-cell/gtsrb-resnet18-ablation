@@ -1,0 +1,13 @@
+data/
+outputs/*
+!outputs/experiment_summary.csv
+!outputs/experiment_summary.md
+outputs_smoke/
+reports/qa_*/
+reports/*.docx
+!reports/GTSRB改进ResNet18大作业报告_仓库地址已补.docx
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+

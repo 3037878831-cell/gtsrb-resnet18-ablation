@@ -1,0 +1,22 @@
+@page { size: Letter; margin: 0.65in 0.78in; }
+body {
+  font-family: "SimSun", "Songti SC", "Noto Serif CJK SC", serif;
+  font-size: 10.5pt;
+  line-height: 1.55;
+  color: #000;
+  max-width: 7in;
+  margin: 0 auto;
+}
+h1, h2, h3 { color: #000; font-family: "Microsoft YaHei", sans-serif; break-after: avoid; }
+h1 { font-size: 16pt; margin-top: 18pt; }
+h2 { font-size: 13pt; margin-top: 12pt; }
+h3 { font-size: 11pt; margin-top: 8pt; }
+p { margin: 4pt 0; }
+figure, img { break-inside: avoid; }
+img { display: block; max-width: 100%; height: auto; margin: 8pt auto 2pt; }
+table { border-collapse: collapse; width: 100%; margin: 8pt 0; font-size: 8.5pt; break-inside: avoid; }
+th, td { border: 1px solid #d9d9d9; padding: 5pt; vertical-align: middle; }
+th { background: #1f4e78; color: white; text-align: center; }
+tr:nth-child(even) td { background: #eaf2f8; }
+code { font-family: Consolas, monospace; font-size: 8.5pt; }
+
