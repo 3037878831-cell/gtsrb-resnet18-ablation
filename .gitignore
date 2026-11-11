@@ -5,7 +5,7 @@ outputs/*
 outputs_smoke/
 reports/qa_*/
 reports/*.docx
-!reports/GTSRB改进ResNet18大作业报告_仓库地址已补.docx
+!reports/GTSRB改进ResNet18大作业报告.docx
 __pycache__/
 *.py[cod]
 .idea/
